@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "620182523757",
+    "project_id": "insurance-app-1e135",
+    "storage_bucket": "insurance-app-1e135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620182523757:android:7a354d6367728ca39dd464",
+        "android_client_info": {
+          "package_name": "com.example.agency_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620182523757-lak6fmctj0kqtqfh2a79t5eoler1al40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJVc1ZeJdI1LdIbR62HJCZyOR3g28HI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620182523757-lak6fmctj0kqtqfh2a79t5eoler1al40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620182523757-2o3lfk0ukt7mi9t5fn4ori1e4e2peuon.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agencyApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620182523757:android:8ded208008c6811b9dd464",
+        "android_client_info": {
+          "package_name": "com.example.insurer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620182523757-lak6fmctj0kqtqfh2a79t5eoler1al40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJVc1ZeJdI1LdIbR62HJCZyOR3g28HI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620182523757-lak6fmctj0kqtqfh2a79t5eoler1al40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620182523757-2o3lfk0ukt7mi9t5fn4ori1e4e2peuon.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agencyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
